@@ -1,0 +1,41 @@
+﻿Coffee sample code,Spectrum labels in csv file,Spectrum labels in csv file,Spectrum labels in csv file,Species/hybrid,Category,Additional cultivar information,Country of origin,Location,Coffea area (Ethiopia only),Region (Ethiopia only)
+WB_01,Lip02,Hyd02,Low02,arabica,wild type,[],Ethiopia,Western Harar (Gololocha),Arsi ,Oromia
+WB_02,Lip03,Hyd03,Low03,arabica,wild type,[],Ethiopia,Bahir Dar (Zeghie),Amhara,Amhara
+WB_03,Lip05,Hyd05,Low05,arabica,wild type,[],Ethiopia,Gidole,Rift South,SNNPR
+WB_04,Lip06,Hyd06,Low06,arabica,cultivar,[],Uganda,Mt. Elgon,[],[]
+WB_05,Lip07,Hyd07,Low07,arabica,wild type,[],Ethiopia,Wembera (low),Benishangul-Gumuz,Benishangul-Gumuz
+WB_06,Lip08,Hyd08,Low08,arabica,cultivar,Laurina',Brazil,[],[],[]
+WB_07,Lip09,Hyd09,Low09,arabica,cultivar,Bourbon Pointu',La Reunion,[],[],[]
+WB_08,Lip10,Hyd10,Low10,arabica,cultivar,Castillo',Colombia,[],[],[]
+WB_09,Lip12,Hyd12,Low12,arabica,wild type,[],Ethiopia,Jinka,Rift South,SNNPR
+WB_10,Lip16,Hyd16,Low16,arabica,wild type,[],Ethiopia,Konso,Rift South,SNNPR
+WB_11,Lip17,Hyd17,Low17,arabica,wild type,[],Ethiopia,Bale Mts.,Bale,Oromia
+WB_12,Lip18,Hyd18,Low18,arabica,cultivar,Mundo Nuovo,Brazil,[],[],[]
+WB_13,Lip19,Hyd19,Low19,arabica,wild type,[],Ethiopia,Yirgacheffe (town centre),Sidamo,Oromia
+WB_14,Lip20,Hyd20,Low20,arabica,wild type,[],Ethiopia,Yirgacheffe (generic),Sidamo,Oromia
+WB_15,Lip21,Hyd21,Low21,arabica,wild type,Yirgacheffe,Ethiopia,Yayu (Geri),Illubabor,Oromia
+WB_16,Lip22,Hyd22,Low22,arabica,wild type,Limu,Ethiopia,Jimma/Limu,Illubabor,Oromia
+WB_17,Lip23,Hyd23,Low23,arabica,wild type,[],Ethiopia,Wembera (high),Benishangul-Gumuz,Benishangul-Gumuz
+WB_18,Lip24,Hyd24,Low24,arabica,wild type,[],Ethiopia,Ashi,Wellega (Kelem Welega),Oromia
+WB_19,Lip25,Hyd25,Low25,arabica,wild type,Lekemte,Ethiopia,Gimbi,West Welega,Oromia
+WB_20,Lip26,Hyd26,Low26,arabica,wild type,[],Ethiopia,Bonga (washed),Kaffa,SNNPR
+WB_21,Lip27,Hyd27,Low27,arabica,wild type,[],Ethiopia,Bonga (natural),Kaffa,SNNPR
+WB_22,Lip30,Hyd30,Low30,arabica,wild type,[],Ethiopia,Guji,Sidamo,Oromia
+WB_23,Lip31,Hyd31,Low31,arabica,wild type/cultivar,Geisha',Colombia,[],[],[]
+WB_24,Lip32,Hyd32,Low32,arabica,cultivar,Typica',Colombia,[],[],[]
+WB_25,Lip33,Hyd33,Low33,arabica,cultivar,Bourbon',Colombia,[],[],[]
+WB_26,Lip34,Hyd34,Low34,arabica,cultivar,Caturra,Colombia,[],[],[]
+WB_27,Lip35,Hyd35,Low35,arabica,cultivar,Caturra,Costa Rica,[],[],[]
+WB_28,Lip36,Hyd36,Low36,arabica,cultivar,SL 28/SL 34,Kenya,[],[],[]
+WB_29,Lip14,Hyd14,Low14,arabica x robusta < arabica (back-cross),cultivar (hybrid),Batian',Kenya,[],[],[]
+WB_30,Lip37,Hyd37,Low37,arabica x robusta < arabica (back-cross),cultivar (hybrid),Ruiru 11',Kenya,[],[],[]
+WB_31,Lip39,Hyd39,Low39,arabica/canephora (70:30) blend,[],[],Cameroon,[],[],[]
+WB_32,Lip28,Hyd28,Low28,arabica x robusta (Arabusta hybrid)  ,hybrid,Arabusta',Kenya,[],[],[]
+WB_33,Lip01,Hyd01,Low01,canephora,[],[],Vietnam,[],[],[]
+WB_34,Lip04,Hyd04,Low04,canephora,[],[],Rwanda,[],[],[]
+WB_35,Lip11,Hyd11,Low11,canephora,[],S. 274,India,[],[],[]
+WB_36,Lip15,Hyd15,Low15,canephora,[],[],India,[],[],[]
+WB_37,Lip29,Hyd29,Low29,canephora,[],[],Brazil,[],[],[]
+WB_38,Lip38,Hyd38,Low38,canephora,[],[],Indonesia,[],[],[]
+WB_39,Lip40,Hyd40,Low40,congensis x robusta,hybrid,[],India,[],[],[]
+WB_40,Lip13,Hyd13,Low13,liberica,[],[],Uganda,[],[],[]
